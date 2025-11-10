@@ -15,4 +15,6 @@ __Files in the repo__:
   __Data Files__: 
   - day.csv
   - hour.csv
-  - model_rmse_results.csv. 
+  - model_rmse_results.csv
+  - Data_Readme.txt
+
