@@ -1,0 +1,6 @@
+model,rmse
+Baseline (Linear Regression),133.8354
+Baseline (Decision Tree),158.5538
+Bagging Regressor,154.9973
+Gradient Boosting Regressor,82.3893
+Stacking Regressor,83.0934
